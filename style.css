@@ -1,0 +1,42 @@
+.alto {
+    height: auto; 
+}
+.Logo-cacao {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto; 
+}
+.Titulo{
+    color: red;
+    font-size: 24px;
+    text-align: center;
+}
+.parrafo1{
+    color: blue;
+    font-size: 20px;
+}
+.parrafo2{
+    color: rgb(221, 34, 124);
+    font-size: 15px;
+}
+.parrafo3{
+    color: purple;
+    font-size: 18px;
+}
+.imagenes{
+    display: flex;
+    justify-content: center;
+}
+.imagen{
+    margin-right: 20px;
+}
+.tabla {
+    text-align: center;
+    border: 1px solid black; 
+    border-collapse: collapse; 
+}
+.tabla td {
+    padding: 10px;
+    border: 1px solid black; 
+}
